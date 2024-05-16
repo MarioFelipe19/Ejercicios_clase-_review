@@ -1,0 +1,11 @@
+{
+    "empleado": [
+        {
+            "nombre": "felipe",
+            "documento": "1",
+            "edad": 44,
+            "telefono": "123",
+            "estado": "Despedido"
+        }
+    ]
+}
